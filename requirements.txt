@@ -1,0 +1,15 @@
+streamlit
+pandas
+pycaret==3.0.5
+ydata-profiling
+sweetviz
+scikit-learn
+numpy
+matplotlib
+seaborn
+xgboost
+lightgbm
+scipy
+joblib
+mlflow
+markupsafe==2.0.1  # Fix for some Jinja2 compatibility issues in Streamlit Cloud
