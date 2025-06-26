@@ -118,7 +118,18 @@ This app is designed to work on **Streamlit Cloud** out of the box. Just push to
 
 ## 📸 Demo
 
-> *Add a screenshot or GIF of the deployed app here.*
+![image](https://github.com/user-attachments/assets/a90faa7c-715c-43c0-819a-4cba1dcc9b39)
+![image](https://github.com/user-attachments/assets/132e2b00-7ad9-4793-8637-1fd6e03718c3)
+![image](https://github.com/user-attachments/assets/9c16cc52-16f7-4620-8629-cdeda54a2ed9)
+![image](https://github.com/user-attachments/assets/d96a4a07-87df-4c6e-baa6-93eedc69af12)
+![image](https://github.com/user-attachments/assets/55dff6d2-b388-4476-8692-e37909cd631f)
+![image](https://github.com/user-attachments/assets/1c85a843-ce10-4532-a18e-b6bd6b815dda)
+![image](https://github.com/user-attachments/assets/d56f826b-6e88-4f63-9265-45fb50497c62)
+![image](https://github.com/user-attachments/assets/7458eb05-78d9-4f80-806a-44430b2def55)
+![image](https://github.com/user-attachments/assets/c6c72a5d-0595-4a14-98ea-89f3e5af39c3)
+![image](https://github.com/user-attachments/assets/1ad6ff33-b1de-4d9e-9a0b-42e445bc13b0)
+
+
 
 ---
 
