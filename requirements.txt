@@ -1,6 +1,6 @@
 streamlit
 pandas
-git+https://github.com/pycaret/pycaret.git@main
+git+https://github.com/pycaret/pycaret.git@master
 ydata-profiling
 sweetviz
 scikit-learn
