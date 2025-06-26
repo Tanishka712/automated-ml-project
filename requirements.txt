@@ -1,6 +1,7 @@
+pip install --upgrade pip setuptools wheel
 streamlit
 pandas
-pycaret[full]==3.0.5
+git+https://github.com/pycaret/pycaret.git@3.0.5
 ydata-profiling
 sweetviz
 scikit-learn
