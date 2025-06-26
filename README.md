@@ -81,8 +81,9 @@ Functionality:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/automl-streamlit-app.git
-cd automl-streamlit-app
+git clone https://github.com/Tanishka712/automated-ml-project.git
+cd automated-ml-project
+
 
 # 2. Install dependencies
 pip install -r requirements.txt
