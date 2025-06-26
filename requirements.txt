@@ -12,4 +12,4 @@ lightgbm
 scipy
 joblib
 mlflow
-markupsafe==2.0.1  # Fix for some Jinja2 compatibility issues in Streamlit Cloud
+markupsafe==2.0.1 
