@@ -47,7 +47,7 @@ if choice == "Upload":
         st.dataframe(df)
 
 if choice == "Clean Data":
-    st.title("Auto Clean Your Dataset with PyCaret")
+    st.title("Auto Clean Your Dataset")
 
     if df is not None:
         st.subheader("Raw Data")
