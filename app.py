@@ -25,7 +25,6 @@ def drop_problematic_columns(df, target_col):
     return df
 
 with st.sidebar:
-    st.image(r"C:\Users\taish\OneDrive\Documents\mypythonprojects\automated ml\img.webp")
     st.title("AutoML")
     choice = st.radio("Navigation", ['Upload', 'Clean Data', 'Profiling', 'ML', 'Download'])
     st.info("This application allows you to build an automated ML pipeline")
