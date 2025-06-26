@@ -1,4 +1,3 @@
-pip install --upgrade pip setuptools wheel
 streamlit
 pandas
 git+https://github.com/pycaret/pycaret.git@3.0.5
@@ -13,4 +12,4 @@ lightgbm
 scipy
 joblib
 mlflow
-markupsafe==2.0.1 
+markupsafe==2.0.1
