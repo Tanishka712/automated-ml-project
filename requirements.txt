@@ -1,6 +1,6 @@
 streamlit
 pandas
-pycaret==3.0.5
+pycaret[full]==3.0.5
 ydata-profiling
 sweetviz
 scikit-learn
